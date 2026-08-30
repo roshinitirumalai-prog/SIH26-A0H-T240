@@ -11,11 +11,11 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader    Roshini A Thirumalai      CB.AI.U4AID26137        |Female           |BTECH AIDS Core                 |                                 |  
+|   Team Leader    |Roshini A Thirumalai     |CB.AI.U4AID26137        |Female           |BTECH AIDS Core                 |                                 |  
 |    Member 2     |   Rupika G               |CB.AI.U426138         |  Female           |                  BTECH AIDS Core               |  
 |    Member 3     |  Amitesh PK              |CB.AI.U426102          |   Male           |                       BTECH AIDS Core          |  
-|    Member 4     | B Kavin Raj               CB.AI.U426104           |     Male        |                      BTECH AIDS Core           |   
-|    Member 5     | Harisaran V             |   CB.AI.U426154          |   Male                                 BTECH AIDS Core        |  
+|    Member 4     | B Kavin Raj              |CB.AI.U426104           |     Male        |                      BTECH AIDS Core           |   
+|    Member 5     | Harisaran V             |   CB.AI.U426154          |   Male         |                        BTECH AIDS Core        |  
 |    Member 6     | Keerthana Velusamy      |  CB.AI.U4AID26122      |     Female      |                        BTECH AIDS Core         |   
 
 #### Mentor Details
