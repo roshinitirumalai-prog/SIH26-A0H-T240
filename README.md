@@ -5,24 +5,24 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T240
 ### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+#### **Team Name** <<TechNova>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader    Roshini A Thirumalai      CB.AI.U4AID26137        |Female           |BTECH AIDS Core                 |                                 |  
+|    Member 2     |   Rupika G                      |CB.AI.U426138   |  Female               |                  BTECH AIDS Core               |  
+|    Member 3     |  Amitesh PK                       |CB.AI.U426102 |   Male              |                       BTECH AIDS Core          |  
+|    Member 4     |            B Kavin Raj   CB.AI.U426104           |     Male            |                      BTECH AIDS Core           |   
+|    Member 5     |           Harisaran V             |   CB.AI.U426154                     |   Male              |                         BTECH AIDS Core        |  
+|    Member 6     | Keerthana Velusamy      |  CB.AI.U4AID26122      |     Female      |                        BTECH AIDS Core         |   
 
 #### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       | Dr.Muthukrishnaraj   | Assistant Professor  | School of Artificial Intelligence |   a_muthukrishnaraj@cb.amrita.edu                       |
 | Industry       |                     |                       |                         |                          |
 
 -----
@@ -31,14 +31,14 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:SIH26143
+* **Problem Statement Title:Leveraging satellite imagery to determine Oil spills at sea along with AIS data correlations to identify vessel responsible for the spill.
+* **Theme / Category:Disaster Management
+* **Ministry / Organization:National Technical Research Organisation (NTRO)
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:SIH26175
+* **Problem Statement Title:DepthWizard - Single-View Height Estimation and 3D Flythrough
+* **Theme / Category:Disaster Management
+* **Ministry / Organization:Department of Space / Indian Space Research Organisation
