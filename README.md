@@ -35,6 +35,7 @@
 * **Problem Statement Title:Leveraging satellite imagery to determine Oil spills at sea along with AIS data correlations to identify vessel responsible for the spill.
 * **Theme / Category:Disaster Management
 * **Ministry / Organization:National Technical Research Organisation (NTRO)
+* **YouTube link: https://youtu.be/BMuuQ2ERQBk?feature=shared
 
 #### PS#2
 
