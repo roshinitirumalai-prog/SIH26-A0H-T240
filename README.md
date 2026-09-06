@@ -7,7 +7,7 @@
 
 ## SIH26-A0H-T240
 ### Team Details
-#### **Team Name** <<TechNova>> <br/>
+#### **Team Name** TechNova
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
