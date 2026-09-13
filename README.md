@@ -39,7 +39,7 @@
 
 #### PS#2
 
-* **Problem Statement ID:SIH26175
-* **Problem Statement Title:DepthWizard - Single-View Height Estimation and 3D Flythrough
+* **Problem Statement ID:SIH26161
+* **Problem Statement Title:Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River
 * **Theme / Category:Disaster Management
 * **Ministry / Organization:Department of Space / Indian Space Research Organisation
