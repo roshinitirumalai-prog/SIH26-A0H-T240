@@ -32,7 +32,7 @@
 #### PS#1
 
 * **Problem Statement ID:SIH26143
-* **Problem Statement Title:Leveraging satellite imagery to determine Oil spills at sea along with AIS data correlations to identify vessel responsible for the spill.
+* **Problem Statement: Leveraging satellite imagery to determine Oil spills at sea along with AIS data correlations to identify vessel responsible for the spill.
 * **Theme / Category:Disaster Management
 * **Ministry / Organization:National Technical Research Organisation (NTRO)
 * **YouTube link: https://youtu.be/BMuuQ2ERQBk?feature=shared
@@ -40,6 +40,9 @@
 #### PS#2
 
 * **Problem Statement ID:SIH26161
-* **Problem Statement Title:Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River
+* **Problem Statement: Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River
 * **Theme / Category:Disaster Management
-* **Ministry / Organization:Department of Space / Indian Space Research Organisation
+* **Ministry / Organization:National Technical Research Organisation (NTRO)
+* 
+* **Problem Statement Title:Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River
+* **Theme / Category:Disaster Manage
