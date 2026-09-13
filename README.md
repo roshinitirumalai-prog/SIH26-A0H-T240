@@ -45,4 +45,4 @@
 * **Ministry / Organization:National Technical Research Organisation (NTRO)
 * 
 * **Problem Statement Title:Dam Break Inundation Modelling Using Hydrodynamic Modelling of any River
-* **Theme / Category:Disaster Manage
+* **Theme / Category:Disaster
